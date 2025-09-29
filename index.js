@@ -28,7 +28,7 @@ function potenciacion (a, b) {
 //7
 
 function separarPalabras (texto) {
-    return texto.split("hola mundo");
+    return texto.split(" ");
 }
 
 //8
